@@ -1,0 +1,7 @@
+---
+layout: single
+title:  "javascript 배열 메소드 "
+---
+
+# pop()과 push() 메소드를 사용하면 배열을 스택(stack)이라는 데이터 구조처럼 사용할 수 있으며,
+# shift()와 push() 메소드를 사용하면 배열을 큐(queue)라는 데이터 구조처럼 사용할 수 있습니다.
